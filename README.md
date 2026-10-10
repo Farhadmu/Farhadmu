@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  🚀 NEXT-LEVEL ANIMATED BANNER                -->
+<!--                  🚀 ANIMATED DYNAMIC BANNER                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:f78166&height=200&section=header&text=ALHAMDULILLAH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="Alhamdulillah Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:f78166&height=210&section=header&text=ALHAMDULILLAH&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Alhamdulillah Animated Banner" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -16,16 +16,16 @@
 <tr>
 <td align="center" valign="middle" width="160">
   <a href="https://github.com/Farhadmu">
-    <img src="https://github.com/Farhadmu.png" width="135" height="135" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 30px rgba(88, 166, 255, 0.7);" alt="MD Farhadul Islam Avatar" />
+    <img src="https://github.com/Farhadmu.png" width="135" height="135" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 25px rgba(88, 166, 255, 0.6);" alt="MD Farhadul Islam Avatar" />
   </a>
 </td>
 <td align="left" valign="middle">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, World! I'm MD Farhadul Islam
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm MD Farhadul Islam!
 
 <p align="left">
   <a href="https://github.com/Farhadmu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=58A6FF&background=00000000&center=false&vCenter=true&width=550&height=42&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Systems+Architect+%F0%9F%92%BB;Next.js+%26+MERN+Stack+Specialist+%E2%9A%A1;Algorithmic+Problem+Solver+(C%2B%2B)+%F0%9F%A7%A0;Garuda+Linux+Kernel+%26+CLI+Native+%F0%9F%90%A7;Building+Scalable%2C+High-Impact+Systems+%F0%9F%8C%90" alt="Software Engineer Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&background=00000000&center=false&vCenter=true&width=550&height=42&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Systems+Architect+%F0%9F%92%BB;Next.js+%26+MERN+Stack+Specialist+%E2%9A%A1;Algorithmic+Problem+Solver+(C%2B%2B)+%F0%9F%A7%A0;Garuda+Linux+Native+%26+CLI+Power+User+%F0%9F%90%A7;Building+Scalable%2C+Fault-Tolerant+Systems+%F0%9F%8C%90" alt="Software Engineer Typing SVG" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 <br>
 
 <a href="#-technical-skills--architecture">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,cpp,git,github,linux,vscode,figma,postman,vercel,netlify&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,cpp,c,git,github,linux,vscode,figma,postman,vercel,netlify&perline=11" alt="Tech Stack Icons" />
 </a>
 
 </div>
@@ -93,9 +93,9 @@ farhad@garuda-arch:~$ cat farhad_spec.json
   "mindset": "Turn complex algorithmic problems into reliable, scalable, and elegant software systems."
 }
 farhad@garuda-arch:~$ ./run_tests.sh --all
-[✓] Core CS Foundations: Passed (DSA, OOP, Big-O Analysis)
+[✓] Core CS Foundations: Passed (DSA, OOP, Big-O Complexity)
 [✓] Backend Services: Passed (Node.js, Express, MongoDB, JWT Auth, Stripe API)
-[✓] Frontend Applications: Passed (React, Next.js, Tailwind, Responsive UI)
+[✓] Frontend Applications: Passed (React, Next.js, Tailwind CSS, Responsive UI)
 [✓] System Status: Production Ready 🚀
 ```
 
@@ -427,7 +427,6 @@ graph LR
 <tr>
 <td colspan="2" align="center">
   <br>
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhadmu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="100%" alt="Streak Stats Card" />
 </td>
 </tr>
@@ -485,7 +484,7 @@ graph LR
 
 <br><br>
 
-<a href="#-next-level-animated-banner">
+<a href="#-animated-dynamic-banner">
   <img src="https://img.shields.io/badge/⬆️_Back_to_Top-161b22?style=for-the-badge&logoColor=white" alt="Back to Top" />
 </a>
 
