@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:58a6ff,75:a371f7,100:f78166&height=240&section=header&text=MD%20FARHADUL%20ISLAM&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20SYSTEMS%20ARCHITECT&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Software Engineer Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:58a6ff,75:a371f7,100:f78166&height=240&section=header&text=ALHAMDULILLAH&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20MD%20Farhadul%20Islam%20%7C%20Software%20Engineer%20%26%20Systems%20Architect&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Software Engineer Header Banner" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
