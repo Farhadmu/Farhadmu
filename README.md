@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  🚀 ANIMATED DYNAMIC BANNER                   -->
+<!--                  🚀 NEXT-LEVEL ANIMATED BANNER                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:58a6ff,75:a371f7,100:f78166&height=230&section=header&text=ALHAMDULILLAH&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%F0%9F%9A%80%20Welcome%20to%20MD%20Farhadul%20Islam%27s%20Digital%20Universe&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:58a6ff,75:a371f7,100:f78166&height=240&section=header&text=MD%20FARHADUL%20ISLAM&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20SYSTEMS%20ARCHITECT&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Software Engineer Header Banner" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -16,20 +16,21 @@
 <tr>
 <td align="center" valign="middle" width="160">
   <a href="https://github.com/Farhadmu">
-    <img src="https://github.com/Farhadmu.png" width="130" height="130" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 25px rgba(88, 166, 255, 0.6);" alt="MD Farhadul Islam Avatar" />
+    <img src="https://github.com/Farhadmu.png" width="135" height="135" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 30px rgba(88, 166, 255, 0.7);" alt="MD Farhadul Islam Avatar" />
   </a>
 </td>
 <td align="left" valign="middle">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, I'm MD Farhadul Islam!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, World! I'm MD Farhadul Islam
 
 <p align="left">
   <a href="https://github.com/Farhadmu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=58A6FF&background=00000000&center=false&vCenter=true&width=520&height=40&lines=CSE+Undergraduate+%F0%9F%8E%93;Full+Stack+MERN+Developer+%F0%9F%92%BB;Next.js+%26+React+Specialist+%E2%9A%A1;Competitive+Programmer+(C%2B%2B)+%F0%9F%A7%A0;Garuda+Linux+Daily+Driver+%F0%9F%90%A7;Building+Impactful+Web+Experiences+%F0%9F%9A%80" alt="Dynamic Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=58A6FF&background=00000000&center=false&vCenter=true&width=550&height=42&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Systems+Architect+%F0%9F%92%BB;Next.js+%26+MERN+Stack+Specialist+%E2%9A%A1;Algorithmic+Problem+Solver+(C%2B%2B)+%F0%9F%A7%A0;Garuda+Linux+Kernel+%26+CLI+Native+%F0%9F%90%A7;Building+Scalable%2C+High-Impact+Systems+%F0%9F%8C%90" alt="Software Engineer Typing SVG" />
   </a>
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Software%20Engineering%20Roles-success?style=for-the-badge" alt="Status" />
   <img src="https://komarev.com/ghpvc/?username=Farhadmu&label=Profile%20Views&color=58a6ff&style=for-the-badge&logo=eye" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Farhadmu?label=Followers&style=for-the-badge&color=238636&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Location-Comilla%2C%20Bangladesh-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
@@ -59,10 +60,10 @@
 
 <div align="center">
 
-### ⚡ Technologies & Tools I Work With
+### ⚡ Production Tech Stack & Engineering Tools
 <br>
 
-<a href="#-technical-skills">
+<a href="#-technical-skills--architecture">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,cpp,git,github,linux,vscode,figma,postman,vercel,netlify&perline=10" alt="Tech Stack Icons" />
 </a>
 
@@ -75,30 +76,48 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  👨‍💻 ABOUT ME (INTERACTIVE CARD)              -->
+<!--                  💻 INTERACTIVE ENGINEER TERMINAL             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+## 💻 Engineer Terminal Session
+
+```bash
+farhad@garuda-arch:~$ cat farhad_spec.json
+{
+  "engineer": "MD Farhadul Islam",
+  "role": "Software Engineer & Full-Stack Systems Architect",
+  "education": "B.Sc. in Computer Science & Engineering (CSE)",
+  "specialization": ["High-Performance Full-Stack Web Apps", "MERN & Next.js", "Algorithmic Problem Solving"],
+  "architectural_principles": ["Clean Architecture", "SOLID & DRY", "RESTful Conventions", "Database Normalization"],
+  "daily_driver_os": "Garuda Linux (Arch-based Kernel)",
+  "mindset": "Turn complex algorithmic problems into reliable, scalable, and elegant software systems."
+}
+farhad@garuda-arch:~$ ./run_tests.sh --all
+[✓] Core CS Foundations: Passed (DSA, OOP, Big-O Analysis)
+[✓] Backend Services: Passed (Node.js, Express, MongoDB, JWT Auth, Stripe API)
+[✓] Frontend Applications: Passed (React, Next.js, Tailwind, Responsive UI)
+[✓] System Status: Production Ready 🚀
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  👨‍💻 ABOUT ME & CORE VALUES                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 👨‍💻 Engineering Profile & Overview
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-```yaml
-Developer Profile:
-  Name: MD Farhadul Islam
-  Education: B.Sc. in Computer Science & Engineering (CSE)
-  Current Focus: Scalable MERN & Next.js Architecture
-  Core Strength: Data Structures, Algorithms & Problem Solving
-  Operating System: Garuda Linux (Arch-based daily driver)
-  Philosophy: "Clean Code, Optimal Complexity, Seamless UX"
-```
+I am a **Software Engineer** with a solid foundation in **Computer Science & Engineering (CSE)**. My expertise centers around architecting and deploying end-to-end full-stack systems with **React, Next.js, Node.js, Express, and MongoDB**, paired with strong computational problem-solving abilities in **C++**.
 
-- 🎓 **CSE Undergraduate** — Focusing on computer science foundations and software design.
-- 💻 **Full-Stack Web Development** — Creating production-grade apps with **React, Next.js, Node.js, Express, MongoDB**.
-- 🧠 **Problem Solver** — Actively grinding **DSA** & **Competitive Programming** in **C++**.
-- 🐧 **Linux Enthusiast** — Navigating, scripting, and coding daily inside **Garuda Linux**.
-- 🚀 **Always Building** — Transforming complex real-world requirements into smooth, intuitive user interfaces.
+- 🏗️ **Full-Stack Architecture**: Designing clean, decoupled client-server systems with secure authentication, payment workflows, and persistent databases.
+- 🧠 **Algorithms & CS Foundations**: Actively applying Data Structures, Graph Theory, and Search Algorithms to write optimized, low-latency code.
+- 🔒 **Security-First Approach**: Implementing robust RBAC (Role-Based Access Control), JWT sessions, sanitized database queries, and secure API gateways.
+- 🐧 **Linux Power User**: Operating daily in **Garuda Linux**, leveraging command-line tooling, Git version control, and shell scripting for efficient workflows.
+- 🎯 **Continuous Engineering**: Striving for production-grade software that scales smoothly under real-world usage.
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -111,78 +130,115 @@ Developer Profile:
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  📐 SYSTEM ARCHITECTURE DESIGN PATTERN        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📐 Full-Stack System Architecture Blueprint
+
+```mermaid
+graph LR
+    subgraph Client_Layer [Client Layer]
+        A[Next.js / React Web App]
+        B[State Management & UI]
+    end
+
+    subgraph Gateway_Layer [Edge & Security Layer]
+        C[Vercel Edge / CDN]
+        D[JWT & OAuth Auth Guard]
+    end
+
+    subgraph Service_Layer [Backend & API Layer]
+        E[Node.js / Express Server]
+        F[Stripe Payment Engine]
+    end
+
+    subgraph Data_Layer [Persistence Layer]
+        G[(MongoDB Atlas Database)]
+    end
+
+    A --> C
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+```
+
+<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:a371f7,100:f78166&height=3" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  🛠️ TECHNICAL SKILLS MATRIX                   -->
+<!--                  🛠️ TECHNICAL SKILLS & ARCHITECTURE          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Architectural Layers
 
 <div align="center">
 
 <table>
 <tr>
-<th width="50%" align="center">🌐 Frontend Architecture</th>
-<th width="50%" align="center">⚙️ Backend & Database Systems</th>
+<th width="50%" align="center">🌐 Layer 1: Frontend & Client Systems</th>
+<th width="50%" align="center">⚙️ Layer 2: Backend, APIs & Authentication</th>
 </tr>
 <tr>
 <td valign="top">
 
-| Technology | Proficiency | Level |
-|:-----------|:-----------:|:-----:|
-| **HTML5 & CSS3** | `██████████` | 🟢 95% |
-| **JavaScript (ES6+)** | `█████████░` | 🟢 90% |
-| **React.js** | `████████░░` | 🔵 85% |
-| **Next.js** | `████████░░` | 🔵 80% |
+| Technology | Proficiency | Rating |
+|:-----------|:-----------:|:------:|
+| **React.js** | `█████████░` | 🟢 90% |
+| **Next.js 14** | `████████░░` | 🔵 85% |
+| **JavaScript (ES6+)** | `█████████░` | 🟢 92% |
 | **Tailwind CSS** | `██████████` | 🟢 95% |
+| **HTML5 & Modern CSS3** | `██████████` | 🟢 95% |
 | **DaisyUI** | `████████░░` | 🔵 85% |
-| **Vite** | `████████░░` | 🔵 85% |
+| **Vite Tooling** | `████████░░` | 🔵 88% |
 
 </td>
 <td valign="top">
 
-| Technology | Proficiency | Level |
-|:-----------|:-----------:|:-----:|
-| **Node.js** | `████████░░` | 🔵 80% |
-| **Express.js** | `████████░░` | 🔵 85% |
-| **MongoDB & Mongoose** | `████████░░` | 🔵 80% |
-| **Firebase Auth/DB** | `███████░░░` | 🔵 75% |
-| **JWT Authentication** | `████████░░` | 🔵 85% |
-| **RESTful APIs** | `█████████░` | 🟢 90% |
-| **Stripe Payments** | `████████░░` | 🔵 80% |
+| Technology | Proficiency | Rating |
+|:-----------|:-----------:|:------:|
+| **Node.js** | `████████░░` | 🔵 85% |
+| **Express.js** | `█████████░` | 🟢 90% |
+| **RESTful API Design** | `█████████░` | 🟢 90% |
+| **JWT Authentication** | `█████████░` | 🟢 90% |
+| **Stripe Checkout & Webhooks**| `████████░░` | 🔵 85% |
+| **Firebase Auth & Firestore** | `████████░░` | 🔵 80% |
+| **API Rate Limiting & Security**| `████████░░` | 🔵 80% |
 
 </td>
 </tr>
 <tr>
-<th width="50%" align="center">💻 Languages & Core CS</th>
-<th width="50%" align="center">🔧 Tools, DevOps & OS</th>
+<th width="50%" align="center">🧠 Layer 3: Algorithms, CS & Languages</th>
+<th width="50%" align="center">🗄️ Layer 4: Databases, DevOps & Tooling</th>
 </tr>
 <tr>
 <td valign="top">
 
-| Subject | Proficiency | Level |
-|:--------|:-----------:|:-----:|
-| **C++ (STL & OOP)** | `████████░░` | 🔵 85% |
-| **C Language** | `████████░░` | 🔵 80% |
-| **Data Structures** | `████████░░` | 🔵 80% |
-| **Algorithms** | `████████░░` | 🔵 80% |
-| **Big-O Complexity** | `█████████░` | 🟢 88% |
-| **Competitive Programming** | `███████░░░` | 🔵 75% |
+| Subject / Language | Proficiency | Rating |
+|:-------------------|:-----------:|:------:|
+| **C++ (STL, OOP, Templates)**| `█████████░` | 🟢 88% |
+| **C Language (Pointers, Memory)**| `████████░░` | 🔵 82% |
+| **Data Structures & Algorithms** | `████████░░` | 🔵 85% |
+| **Time & Space Complexity** | `█████████░` | 🟢 90% |
+| **Competitive Programming** | `████████░░` | 🔵 80% |
+| **Object-Oriented Design (OOD)**| `█████████░` | 🟢 88% |
 
 </td>
 <td valign="top">
 
-| Tool / Environment | Proficiency | Level |
-|:-------------------|:-----------:|:-----:|
-| **Git & GitHub** | `██████████` | 🟢 92% |
-| **Linux (Garuda/Arch)** | `████████░░` | 🔵 85% |
-| **VS Code** | `██████████` | 🟢 95% |
-| **Postman API** | `████████░░` | 🔵 85% |
-| **Figma (UI/UX)** | `████████░░` | 🔵 80% |
-| **Vercel & Netlify** | `██████████` | 🟢 90% |
+| Database & Tool | Proficiency | Rating |
+|:----------------|:-----------:|:------:|
+| **MongoDB & Mongoose ORM** | `████████░░` | 🔵 85% |
+| **Git & GitHub Workflows** | `██████████` | 🟢 95% |
+| **Linux (Garuda / Arch CLI)** | `█████████░` | 🟢 88% |
+| **Postman API Testing** | `█████████░` | 🟢 90% |
+| **VS Code Power Environment** | `██████████` | 🟢 95% |
+| **Vercel & Netlify CI/CD** | `█████████░` | 🟢 92% |
 
 </td>
 </tr>
@@ -196,18 +252,18 @@ Developer Profile:
 <!--                  📚 COMPUTER SCIENCE FOUNDATIONS              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📚 Core Computer Science Foundations
+## 📚 Computer Science & Engineering Foundations
 
 <div align="center">
 
-| Core Area | In-Depth Topics Covered |
-|:----------|:------------------------|
-| **🧠 Data Structures** | Dynamic Arrays, Singly & Doubly Linked Lists, Stacks, Queues, Binary Trees, BST, Graphs, Heaps, Hash Tables |
-| **⚡ Algorithms** | Sorting (Merge, Quick, Heap), Binary Search, Two Pointers, BFS, DFS, Greedy Approaches, Recursion & Backtracking |
-| **🏛️ Object-Oriented Design** | Encapsulation, Abstraction, Inheritance, Polymorphism, DRY & SOLID Principles |
-| **🔢 Discrete Mathematics** | Set Theory, Combinatorics, Graph Theory, Logic & Proofs, Relations |
-| **🖥️ Operating Systems** | Process & Thread Management, CPU Scheduling, Memory Allocation, File Systems, Linux Shell & CLI |
-| **🌐 Web Architecture** | HTTP/HTTPS Protocols, RESTful Conventions, CORS, State Management, Client-Side vs Server-Side Rendering |
+| Domain | Core Concepts & Production Application |
+|:-------|:---------------------------------------|
+| **🧠 Data Structures** | Arrays, Linked Lists, Stacks, Queues, Binary Trees, BST, Graphs, Hash Tables, Heaps, Priority Queues |
+| **⚡ Algorithmic Paradigms** | Two Pointers, Sliding Window, Binary Search, BFS/DFS Traversal, Greedy Methods, Recursion & Backtracking |
+| **🏛️ Software Engineering** | Modular Architecture, Separation of Concerns, DRY, KISS, SOLID Principles, Clean Code Standards |
+| **🔢 Discrete Mathematics** | Graph Theory, Combinatorics, Logic Systems, Set Theory, Recurrence Relations |
+| **🖥️ Operating Systems** | Process & Thread Concurrency, Memory Management, Linux Shell Scripts, File Systems, System Calls |
+| **🌐 Computer Networks** | HTTP/HTTPS Protocols, TCP/IP Model, DNS, REST Conventions, WebSockets, CORS Policies |
 
 </div>
 
@@ -218,110 +274,108 @@ Developer Profile:
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  🚀 FEATURED PROJECTS SHOWCASE                -->
+<!--                  🚀 FEATURED ENGINEERING PROJECTS             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Case Studies
 
 <br>
 
-### 🎨 01. ArtHub — Full-Stack Digital Art Marketplace
+### 🎨 01. ArtHub — Full-Stack Multi-Tenant Art Marketplace & Monetization Engine
 
-> **A modern, scalable digital platform connecting art lovers with visionary creators.** Includes complete e-commerce checkout, creator storefronts, and analytics.
+> **A scalable, production-grade e-commerce ecosystem connecting digital artists and global collectors.** Features enterprise-level authentication, Stripe checkout & subscription billing, real-time reviews, and multifaceted management dashboards.
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe_API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-- 🔐 **Multi-Role Authentication**: JWT & Google OAuth with role-based access control (User, Artist, Administrator).
-- 🖼️ **Dynamic Art Discovery**: Smooth hero carousel, multi-filter search, genre tags, and paginated infinite browse.
-- 💳 **Stripe Payment Gateway**: Secure single artwork checkout and multi-tier subscriptions (Free / Pro / Premium).
-- 💬 **Verified Feedback**: Purchase-gated interactive reviews and comment system with full edit/delete privileges.
-- 📊 **Dedicated Dashboards**:
-  - *User Dashboard*: Order history, downloads, and interactive wishlist.
-  - *Artist Dashboard*: Artwork inventory management, sales logs, and revenue metrics.
-  - *Admin Dashboard*: Platform-wide analytics, user management, and transaction records.
+**System & Engineering Highlights:**
+- 🛡️ **Role-Based Access Control (RBAC)**: Engineered a 3-tier user privilege matrix (Customer, Artist, Platform Admin) secured via JWT token verification and Google OAuth 2.0.
+- 💳 **Financial Pipeline**: Integrated Stripe Checkout sessions supporting one-off artwork purchases alongside tiered recurring subscriptions (Free, Pro, Premium).
+- 🖼️ **High-Performance Catalog**: Optimized artwork browsing using indexed queries, category filters, and fluid pagination.
+- 💬 **Gated Interaction Loop**: Developed a purchase-verified comment and review engine with atomic CRUD operations.
+- 📊 **Metric Dashboards**: Dedicated operational panels for User orders, Creator inventory/sales tracking, and Administrator platform telemetry.
 
 <p>
   <a href="https://arthub-client-olive.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00C853?style=for-the-badge" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🚀_Live_Production-Visit_Platform-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/Farhadmu/Arthub-client" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Frontend_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Frontend Repo" />
+    <img src="https://img.shields.io/badge/📂_Frontend_Architecture-GitHub-181717?style=for-the-badge&logo=github" alt="Frontend Repo" />
   </a>
   <a href="https://github.com/Farhadmu/Arthub-server" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Backend_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Backend Repo" />
+    <img src="https://img.shields.io/badge/📂_Backend_API_Engine-GitHub-181717?style=for-the-badge&logo=github" alt="Backend Repo" />
   </a>
 </p>
 
 ---
 
-### 🛒 02. DigiTools — Interactive Product Cart System
+### 🛒 02. DigiTools — Reactive Client-Side E-Commerce Engine
 
-> **A blazing-fast client-side e-commerce store with instantaneous reactive state and toast notifications.**
+> **A high-speed, client-side digital product storefront featuring instantaneous reactive state management, cart calculation engine, and non-blocking notifications.**
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Toastify-FF6B6B?style=for-the-badge" />
 </p>
 
-- ⚡ **Real-Time State Synchronization**: Live cart item counters, price calculations, tax & total breakdown.
-- 🎯 **Interactive Feedback**: Instant non-blocking toast alerts for additions, removals, and checkout status.
-- 📱 **Adaptive Layout**: 3-column responsive catalog engineered for ultra-smooth mobile and desktop browsing.
+- ⚡ **Optimized State Machine**: Real-time cart calculations, subtotal, tax handling, and instant counter synchronization without extraneous re-renders.
+- 🎯 **Asynchronous Feedback**: Integrated toast alert queues providing clear operational feedback across addition, removal, and checkout states.
+- 📱 **Responsive 3-Column Grid**: Engineered responsive breakpoints tailored for seamless performance across mobile, tablet, and wide desktop screens.
 
 <p>
   <a href="https://marvelous-nougat-5c5bf6.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00C853?style=for-the-badge" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🚀_Live_Production-Visit_Site-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/Farhadmu/DIgiTools-" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
+    <img src="https://img.shields.io/badge/📂_Source_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
   </a>
 </p>
 
 ---
 
-### 🧠 03. KV Knowledge Vault — Second Brain Landing Platform
+### 🧠 03. KV Knowledge Vault — Modern Second Brain Platform
 
-> **Pixel-perfect, high-converting product landing page transformed from modern Figma specifications.**
+> **Engineered high-converting, accessible web architecture from Figma design specifications with component modularity and responsive typography.**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5_Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
-- 🎨 **Modern Aesthetics**: Curated typography, subtle gradients, and component-first UI design.
-- 📐 **Semantic Architecture**: Clean HTML5 semantic layout with optimal SEO and accessibility scores.
+- 🎨 **Pixel-Perfect Fidelity**: Strict component-based implementation of complex Figma design tokens.
+- 📐 **Accessibility & SEO**: Clean semantic HTML structure scoring top Lighthouse marks in Performance and Accessibility.
 
 <p>
   <a href="https://farhadmu.github.io/KV_Knowledge_Vault/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-00C853?style=for-the-badge" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🚀_Live_Production-Visit_Site-00C853?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/Farhadmu/KV_Knowledge_Vault" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
+    <img src="https://img.shields.io/badge/📂_Source_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
   </a>
 </p>
 
 ---
 
 <details>
-<summary><b>🔍 View Additional JavaScript & DOM Engineering Projects (Click to expand)</b></summary>
+<summary><b>🔍 View Core JavaScript & DOM System Implementations (Click to expand)</b></summary>
 <br>
 
-#### 📋 GitHub Issues Tracker
-- Comprehensive implementation of modern JavaScript ES6+ patterns, asynchronous fetch routines, and state handlers.
-- 🔗 [Live Demo](https://farhadmu.github.io/B-13-assignment-5/login.html) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Farhadmu/B-13-assignment-5)
+#### 📋 GitHub Issues Tracker Engine
+- Applied asynchronous fetch routines, ES6 modules, and error-handling pipelines for real-time repository issue tracking.
+- 🔗 [Live Application](https://farhadmu.github.io/B-13-assignment-5/login.html) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Farhadmu/B-13-assignment-5)
 
-#### 💼 Job Application Tracker
-- High-efficiency DOM manipulation dashboard featuring event bubbling, delegation, and client-side filtering.
-- 🔗 [Live Demo](https://farhadmu.github.io/B-13-assignment.A-4/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Farhadmu/B-13-assignment.A-4)
+#### 💼 Job Application Tracker Engine
+- Event bubbling, DOM delegation, dynamic filtering, and interactive state persistence.
+- 🔗 [Live Application](https://farhadmu.github.io/B-13-assignment.A-4/) &nbsp;|&nbsp; 📂 [Source Code](https://github.com/Farhadmu/B-13-assignment.A-4)
 
 </details>
 
@@ -340,7 +394,7 @@ Developer Profile:
 <div align="center">
 
 <p>
-  <b>Watch the snake eat my GitHub contributions! 🎮</b>
+  <b>Automated GitHub Contribution Snake Eater &bull; Powered by GitHub Actions CI/CD</b>
 </p>
 
 <picture>
@@ -357,7 +411,7 @@ Developer Profile:
 <!--                  📊 GITHUB LIVE ANALYTICS                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 Live GitHub Analytics & Streaks
+## 📊 Live GitHub Engineering Metrics
 
 <div align="center">
 
@@ -394,7 +448,11 @@ Developer Profile:
 
 <div align="center">
 
-### 💡 Developer Wisdom
+### 💡 Software Engineering Philosophy
+
+> *"Simplicity is prerequisite for reliability."* — **Edsger W. Dijkstra**
+
+<br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
 
@@ -410,10 +468,10 @@ Developer Profile:
 <!--                  📫 GET IN TOUCH / CONNECT                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect & Build High-Impact Systems!
 
 <p align="center">
-  I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+  I am actively seeking <b>Software Engineering</b> opportunities, collaborative open-source initiatives, and high-impact software projects.
 </p>
 
 <div align="center">
@@ -432,7 +490,7 @@ Developer Profile:
 
 <br><br>
 
-<a href="#-animated-dynamic-banner">
+<a href="#-next-level-animated-banner">
   <img src="https://img.shields.io/badge/⬆️_Back_to_Top-161b22?style=for-the-badge&logoColor=white" alt="Back to Top" />
 </a>
 
@@ -450,6 +508,6 @@ Developer Profile:
 
 <div align="center">
 
-<sub>Designed with ❤️ and passion by <b>MD Farhadul Islam</b> &bull; &copy; 2026</sub>
+<sub>Engineered with precision & passion by <b>MD Farhadul Islam</b> &bull; &copy; 2026 Software Engineering Portfolio</sub>
 
 </div>
