@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:161b22,45:58a6ff,75:a371f7,100:f78166&height=240&section=header&text=ALHAMDULILLAH&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20MD%20Farhadul%20Islam%20%7C%20Software%20Engineer%20%26%20Systems%20Architect&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Software Engineer Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:f78166&height=200&section=header&text=ALHAMDULILLAH&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="Alhamdulillah Banner" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -427,13 +427,8 @@ graph LR
 <tr>
 <td colspan="2" align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhadmu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="100%" alt="Streak Stats Card" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhadmu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhadmu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="100%" alt="Streak Stats Card" />
 </td>
 </tr>
 </table>
